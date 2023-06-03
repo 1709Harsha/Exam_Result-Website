@@ -1,0 +1,32 @@
+.heading
+{
+	font-size: 30px;
+	text-align: center;
+	background-color: gray;
+	color: marron;
+}
+.para
+{
+	font-size: 30px;
+	color: red;
+}
+.text1
+{
+	display:flex;
+	flex: 100%;
+	height: 225px;
+	width: 100%;
+	font-size: 20px;
+}
+
+.text2
+{
+	width: 100%;
+	font-size: 20px;
+}
+
+.ayyo
+{
+	font-size: 30px;
+	color: red;
+} 
